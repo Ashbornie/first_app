@@ -1,0 +1,17 @@
+/* src/App.css */
+
+/* Make the 3D Canvas fill the screen */
+html, body, #root {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+  width: 100vw;  /* Full viewport width */
+  height: 100vh; /* Full viewport height */
+  background-color: #f0f0f0;  /* Light gray background for the 3D scene */
+}
+
+/* You can add more styles for any surrounding UI */
