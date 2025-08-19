@@ -1,5 +1,7 @@
 # First React Application
 
+first_app is a 3D model viewer built with React and Vite. It allows users to load and interact with 3D models directly in the browser using Three.js / react-three-fiber. The app demonstrates how to set up a lightweight React environment for rendering, rotating, and exploring 3D objects, making it a starter template for anyone interested in building interactive 3D web experiences.
+
 This project is a simple **React application** scaffolded using **Vite**. It demonstrates the basic setup and usage of React components, Vite bundling, and a minimal development environment.
 
 ---
